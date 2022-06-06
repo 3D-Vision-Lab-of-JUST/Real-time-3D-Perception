@@ -17,6 +17,7 @@ We tested our code on:
 - our research library mLib, a git submodule in external/mLib
 - mLib external libraries can be downloaded [here](http://kaldir.vc.in.tum.de/mLib/mLibExternal.zip)
 - Intel OpenVINO 2021.4.689
+- Opencv with OpenVINO
 
 Optional:
 - Kinect SDK (2.0 and above)
