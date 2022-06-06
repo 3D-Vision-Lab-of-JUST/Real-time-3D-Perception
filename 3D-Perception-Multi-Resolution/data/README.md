@@ -1,0 +1,1 @@
+We manage the input of the program video stream in this folder, if the input selection is 8=SensorDataReader, please place the .sens file in this folder.
