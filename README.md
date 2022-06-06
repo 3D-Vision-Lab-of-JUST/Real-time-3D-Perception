@@ -1,7 +1,7 @@
 ## Real-time-3D-Perception
 
-![Real-time-3D-Perception](img/teaser.jpg)
-
+![Real-time-3D-Perception](/3D-Perception-Multi-Resolution/img/labeled_tsdf-1)
+![Real-time-3D-Perception](/3D-Perception-Multi-Resolution/img/labeled_tsdf-2)
 
 This is a real-time 3D perception system that includes 3D reconstruction, instance segmentation, and real-time rendering with a multi-resolution voxel space.
 
