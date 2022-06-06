@@ -1,7 +1,7 @@
 ## Real-time-3D-Perception
 This is a real-time 3D perception system that includes 3D reconstruction, instance segmentation, and real-time rendering with a multi-resolution voxel space.
 
-Thanks to bundlefusion for its great contribution, some of our code comes from them.
+Thanks to bundlefusion(https://github.com/niessner/BundleFusion) for its great contribution, some of our code comes from them.
 
 Project video is available here. https://www.zhihu.com/zvideo/1517078712017674240
 
