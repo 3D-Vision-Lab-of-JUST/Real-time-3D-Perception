@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Program Files (x86)\Intel\openvino_2021.4.689\deployment_tools\inference_engine\include;C:\Program Files (x86)\Intel\openvino_2021.4.689\opencv\include;C:\Users\Maple\Documents\Intel\OpenVINO\inference_engine_cpp_samples_build\thirdparty\gflags\include;C:\Program Files (x86)\Intel\openvino_2021.4.689\deployment_tools\inference_engine\samples\cpp\common\utils\include;C:\Program Files (x86)\Intel\openvino_2021.4.689\deployment_tools\inference_engine\samples\cpp\common\format_reader\..;C:\Program Files (x86)\Intel\openvino_2021.4.689\deployment_tools\inference_engine\samples\cpp\common\format_reader;C:\Program Files (x86)\Intel\openvino_2021.4.689\deployment_tools\inference_engine\samples\cpp\benchmark_app\..\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>C:\Program Files (x86)\Intel\openvino_2021.4.689\opencv\lib\opencv_core453d.lib;C:\Program Files (x86)\Intel\openvino_2021.4.689\opencv\lib\opencv_calib3d453d.lib;C:\Program Files (x86)\Intel\openvino_2021.4.689\opencv\lib\opencv_dnn453d.lib;C:\Program Files (x86)\Intel\openvino_2021.4.689\opencv\lib\opencv_highgui453d.lib;C:\Program Files (x86)\Intel\openvino_2021.4.689\opencv\lib\opencv_imgproc453d.lib;C:\Program Files (x86)\Intel\openvino_2021.4.689\deployment_tools\inference_engine\lib\intel64\Debug\inference_engined.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup />
+</Project>
