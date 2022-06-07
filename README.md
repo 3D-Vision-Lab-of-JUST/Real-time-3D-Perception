@@ -9,7 +9,7 @@ This is a real-time 3D perception system that includes 3D reconstruction, instan
 
 Thanks to [bundlefusion](https://github.com/niessner/BundleFusion) for its great contribution, some of our code comes from them.
 
-Project video is available [here](https://www.zhihu.com/zvideo/1517078712017674240).
+Project video is available [here](https://www.zhihu.com/zvideo/1517576595287597056).
 
 More information about this project can be found in our paper (not yet published).
 
